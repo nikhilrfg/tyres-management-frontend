@@ -1,0 +1,29 @@
+.login-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    border-radius: 5px;
+  }
+  
+  .login-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .login-container form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .login-container p {
+    cursor: pointer;
+    color: #007bff;
+    text-align: center;
+  }
+  
+  .login-container p:hover {
+    text-decoration: underline;
+  }
+  

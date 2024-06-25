@@ -1,0 +1,36 @@
+.tyres-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    border-radius: 5px;
+  }
+  
+  .tyres-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .tyres-container form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .tyres-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .tyres-container li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin: 10px auto;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    border-radius: 5px;
+    max-width: 400px;
+  }
+  
